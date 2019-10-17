@@ -1,5 +1,5 @@
 # checkm8_5c
-Refactoring the checkm8 exploit and testing it on specially the iPhone 5C
+Refactoring the checkm8 exploit and testing it on specifically the iPhone 5C
 
 All I am doing is refactoring the checkm8 exploit by axi0mx, porting it to Python 3.7 and making it specifically for the iPhone 5C.
 
